@@ -1,0 +1,15 @@
+# Name: Smelt ore on forge
+# Description: Smelt ore using a local forge (modify FORGE_ID)
+# Author: Quick
+# Era: Any
+
+if not findtype 6585 backpack
+  overhead 'No ore in bag!' 33
+  stop
+endif
+
+target 'cancel'
+
+dclicktype '6585' backpack
+wft 2000
+targettype 'FORGE_ID' true
