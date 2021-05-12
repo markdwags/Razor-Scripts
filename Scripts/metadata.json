@@ -4,11 +4,13 @@
         "Description":  "Turns cloth into bandages",
         "Author":  "Quick",
         "Era":  "Any",
-        "Categories":  "Common",
+        "Categories":  [
+                           "Common"
+                       ],
         "FileName":  "Common\\UseDagger.razor",
         "Size":  148,
         "SHA1":  "FA0C8707BA88877EEC197352188FD34CE6C736CF",
-        "ModifiedDate":  "2021-05-12T03:45:01.9643328+00:00"
+        "ModifiedDate":  "2021-05-12T19:10:00.5493051+00:00"
     },
     {
         "Name":  "Smelt ore on forge",
@@ -22,6 +24,6 @@
         "FileName":  "Crafting\\Blacksmithy\\SmeltOre.razor",
         "Size":  286,
         "SHA1":  "E4CBD632A4B9B64B5AD88A4640564F819DB00234",
-        "ModifiedDate":  "2021-05-12T03:45:01.9654031+00:00"
+        "ModifiedDate":  "2021-05-12T19:10:00.5493051+00:00"
     }
 ]
