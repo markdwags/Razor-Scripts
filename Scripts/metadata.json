@@ -1,0 +1,27 @@
+﻿[
+    {
+        "Name":  "Use a dagger on cloth",
+        "Description":  "Turns cloth into bandages",
+        "Author":  "Quick",
+        "Era":  "Any",
+        "Categories":  "Common",
+        "FileName":  "Common\\UseDagger.razor",
+        "Size":  148,
+        "SHA1":  "FA0C8707BA88877EEC197352188FD34CE6C736CF",
+        "ModifiedDate":  "2021-05-12T03:45:01.9643328+00:00"
+    },
+    {
+        "Name":  "Smelt ore on forge",
+        "Description":  "Smelt ore using a local forge (modify FORGE_ID)",
+        "Author":  "Quick",
+        "Era":  "Any",
+        "Categories":  [
+                           "Crafting",
+                           "Blacksmithy"
+                       ],
+        "FileName":  "Crafting\\Blacksmithy\\SmeltOre.razor",
+        "Size":  286,
+        "SHA1":  "E4CBD632A4B9B64B5AD88A4640564F819DB00234",
+        "ModifiedDate":  "2021-05-12T03:45:01.9654031+00:00"
+    }
+]
